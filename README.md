@@ -131,3 +131,4 @@ dfx canister call qjdve-lqaaa-aaaaa-aaaeq-cai transferOwnership '(principal "ryj
 ```
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
+# ic-nft-marketplace
